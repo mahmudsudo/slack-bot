@@ -8,7 +8,6 @@ Our Bot will have minimal functionality, such as: "Reply to user on greeting" an
 
 Let's start with creating our new Bot in Slack, for this I created new Slack team.
 
- - https://packagemain.slack.com/apps
  - Search for Bots
  - Add Configuration
  - Username "packagemain"
